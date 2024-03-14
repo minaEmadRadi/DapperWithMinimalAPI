@@ -1,0 +1,6 @@
+@DapperWithMinimalAPI_HostAddress = http://localhost:5282
+
+GET {{DapperWithMinimalAPI_HostAddress}}/
+Accept: application/json
+
+###
